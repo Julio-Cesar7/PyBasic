@@ -16,4 +16,4 @@ l_3=lis_cuadrados.reverse()
 suma=[]
 for i in range(len(lista)):
     suma.append(lista[i] + lis_cubo[i] + lis_cuadrados[i])
-print(suma)
+print()
